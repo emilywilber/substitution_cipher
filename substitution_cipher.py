@@ -1,5 +1,5 @@
 alphabet = "abcdefghijklmnopqrstuvwxyz !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`{|}~"
-key = "qwertyuioplkjhgfdsazxcvbn/m'].;[,?\"}>:{<\|=_+-0 192837465)!(@*#&$^%`~PLQAOKWSIJEDUHRFYGTZMXNCBV"
+key = "qwertyuioplkjhgfdsazxcvbn/m'].;[,?\"}>:{<\\|=_+-0 192837465)!(@*#&$^%`~PLQAOKWSIJEDUHRFYGTZMXNCBV"
 
 def encrypt(message):
     result = ""
